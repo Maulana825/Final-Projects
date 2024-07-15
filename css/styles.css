@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dfd7d717; /* Warna latar belakang untuk body */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
+
+section {
+    padding: 40px 0;
+    background-color: #ffffff; /* Warna latar belakang untuk setiap section */
+}
+
+footer {
+    background-color: #949ca3b9;
+    padding: 20px 0;
+}
+/* Styling untuk setiap section */
+
+#about {
+    background-color: #aecff0a8; /* Warna latar belakang untuk bagian Tentang */
+}
+
+#experience {
+    background-color: #73e0c9; /* Warna latar belakang untuk bagian Pengalaman */
+}
+
+#education {
+    background-color: #f88080; /* Warna latar belakang untuk bagian Pendidikan */
+}
+
+#skills {
+    background-color: #d5eec4; /* Warna latar belakang untuk bagian Keterampilan */
+}
+
+#interests {
+    background-color: #f6fac2; /* Warna latar belakang untuk bagian Minat */
+}
+
+#awards {
+    background-color: #b3c3ca; /* Warna latar belakang untuk bagian Penghargaan */
+}
